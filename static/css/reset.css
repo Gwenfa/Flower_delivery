@@ -1,0 +1,26 @@
+body{
+    color: #333;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+* {
+    box-sizing: border-box;
+}
+p{
+    padding: 0;
+    margin: 0;
+}
+
+a{
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+    color: #494949;
+}
+ul, li, i {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-style: normal;
+}
